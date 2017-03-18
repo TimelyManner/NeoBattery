@@ -14,5 +14,9 @@
   ],
   "author": "",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "socket.io": "^1.7.3"
+  }
 }
